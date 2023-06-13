@@ -1,1 +1,1 @@
-# odin-recipes
+This website will contain basic recipes, which are linked.
