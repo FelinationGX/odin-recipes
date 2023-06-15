@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+
+}
+
+h2 {
+    color: rgb(151, 151, 255);
+}
+
+body {
+    background-color: rgb(253, 225, 225);
+}
+
+.list {
+    font-size: 22px;
+}
+
+button {
+    background-color: teal;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+img {
+    width: auto;
+    height:300px;
+}
+
